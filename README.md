@@ -26,6 +26,11 @@ Código de barras do Boleto gerado:
 
 ![image](https://github.com/user-attachments/assets/3eaa15a1-ff10-4866-aca7-333164cc59da)
 
+Geração da Interface utilizando o GitHub Copilot e o testa chegando na fila
+![image](https://github.com/user-attachments/assets/19db4270-7f24-4009-8c4d-5b62ed40e469)
+
+Implementada a validação do código de barras na interface:
+![image](https://github.com/user-attachments/assets/01ef688f-21e4-44ad-83b4-0ac86eccf855)
 
 
 
