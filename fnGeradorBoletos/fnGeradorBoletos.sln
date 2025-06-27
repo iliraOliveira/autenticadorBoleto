@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGeradorBoletos", "fnGeradorBoletos\fnGeradorBoletos.csproj", "{CFBA74B9-B832-43CE-AA90-B89E13F7D956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnValidaBoleto", "fnValidaBoleto\fnValidaBoleto.csproj", "{A3D3D6C0-9150-471C-B24C-FE7A20736E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBA74B9-B832-43CE-AA90-B89E13F7D956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBA74B9-B832-43CE-AA90-B89E13F7D956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBA74B9-B832-43CE-AA90-B89E13F7D956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBA74B9-B832-43CE-AA90-B89E13F7D956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D3D6C0-9150-471C-B24C-FE7A20736E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D3D6C0-9150-471C-B24C-FE7A20736E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D3D6C0-9150-471C-B24C-FE7A20736E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D3D6C0-9150-471C-B24C-FE7A20736E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC30C3C-33D8-46C4-8AA0-09F772DBE765}
+	EndGlobalSection
+EndGlobal
