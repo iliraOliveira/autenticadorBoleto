@@ -21,3 +21,12 @@ Ao realizar a chamada da fila localmente, é apresentado o retorno: Welcome to A
 Aqui está o objetos enviado para a fila na Azure:
 ![image](https://github.com/user-attachments/assets/fb720cd4-c72b-45cf-a5d3-1d48cac3636f)
 
+Código de barras do Boleto gerado:
+![image](https://github.com/user-attachments/assets/f27f8408-9188-4e9a-9801-18d959a8f5cb)
+
+![image](https://github.com/user-attachments/assets/3eaa15a1-ff10-4866-aca7-333164cc59da)
+
+
+
+
+
